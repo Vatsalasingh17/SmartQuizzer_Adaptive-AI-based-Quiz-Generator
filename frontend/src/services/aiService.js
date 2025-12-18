@@ -2,7 +2,7 @@ import { cleanJsonResponse } from '../utils/helpers';
 import { API_CONFIG } from '../config';
 
 // Proxy base URL
-const PROXY_BASE_URL = 'http://localhost:5000/api/v1/ai';
+const PROXY_BASE_URL = process.env.REACT_APP_PROXY_BASE_URL;
 
 /**
  * Generate quiz questions via OpenAI (through proxy)
