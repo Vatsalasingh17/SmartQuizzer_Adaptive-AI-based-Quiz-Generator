@@ -1,4 +1,4 @@
-**SmartQuizzer-Adaptive-AI-based-Quiz-Generator**
+**SmartQuizzer-Adaptive-AI-based-Quiz-Generator**[Live-Preview](https://smartquizzer-adaptive-ai-based-quiz-7shn.onrender.com/)
 
 🧠Introduction
 
